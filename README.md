@@ -1,4 +1,4 @@
-# Welcome to my web -- A good web to 学习更多国际竞赛知识
+# Welcome to my web -- A good web to 学习更多国际高中知识
 
 # AMC
 
