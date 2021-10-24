@@ -4,6 +4,10 @@
 
 
 
+https://user-images.githubusercontent.com/70703379/138593362-52709e85-d100-4cfd-9759-4102ad02d8b6.mp4
+
+
+
 # USAD
 A book for you to prepare Statistics in USAD
 [Cambridge International AS and A Level Mathematics Statistics by Sophie Goldie, Roger Porkess (z-lib.org).pdf](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404610/Cambridge.International.AS.and.A.Level.Mathematics.Statistics.by.Sophie.Goldie.Roger.Porkess.z-lib.org.pdf)
