@@ -1,10 +1,7 @@
-# Welcome to my web
+# Welcome to my web -- A good web to 学习更多国际竞赛知识
 
-# Mathemathics
+# AMC
 
-
-
-https://user-images.githubusercontent.com/70703379/138593362-52709e85-d100-4cfd-9759-4102ad02d8b6.mp4
 
 
 
