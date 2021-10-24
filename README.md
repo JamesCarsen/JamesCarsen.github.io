@@ -5,7 +5,8 @@
 
 
 # USAD
-
+A book for you to prepare Statistics in USAD
+[Cambridge International AS and A Level Mathematics Statistics by Sophie Goldie, Roger Porkess (z-lib.org).pdf](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404610/Cambridge.International.AS.and.A.Level.Mathematics.Statistics.by.Sophie.Goldie.Roger.Porkess.z-lib.org.pdf)
 
 
 # NEC
