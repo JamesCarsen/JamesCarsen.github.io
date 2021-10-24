@@ -1,2 +1,10 @@
-# JamesCarsen.github.io
-![electrical_banner](https://user-images.githubusercontent.com/70703379/138592625-a6071594-fedc-417f-877f-2ebfb6793009.jpg)
+# Welcome to my web
+
+# All Things You Need to Know to be a Talented Student
+
+![electrical_banner](https://user-images.githubusercontent.com/70703379/138592692-7f6aff0f-3a3f-46a9-9a9e-03cbb4487996.jpg)
+
+Good
+
+sl
+as
