@@ -24,7 +24,11 @@ A book for you to prepare Statistics in USAD
 # WSC
 Download here[Special Area(Mistakes).docx](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404596/Special.Area.Mistakes.docx)
 
+									Special Area
+
+
 Mistakes
+
 The definition of mistake is “an action or judgment that is misguided or wrong”, and the result of a mistake can get the person into trouble. So we can say that a mistake is a process, that a person did something wrong and will get a bad result. As it is a bad process, it does not mean that the end absolutely fails. Actually, it can have either a positive or negative effect or both positive and negative. Generally, it depends on the characteristics of the person, it can determine whether a person is likely to resist or give up when he faces a mistake or trouble.
 So in some kinds of situations, we even can view a mistake acceptable. The reason why I said that is the following reasons. For every temporal situation, we can divide the situation into 2 zones, the learning zone, and the performance zone. The learning zone, literally, is when the goal is to absorb something new and improve ourselves. In this zone, mistakes are acceptable, as people will learn from it and result in a positive effect, we can even expect mistakes. In the contract, the mistakes in the performance zone will lead to a negative effect, since the goal of it is to use all the knowledge we learned and do something as best as we can, use our experiences to avoid mistakes as much as possible. So we can figure out that it is actually a complex issue, not as simple as most people think. So next, I am going to explain deeply and explore this idea to you.
 
