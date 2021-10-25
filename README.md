@@ -31,6 +31,9 @@ A book for you to prepare Statistics in USAD
 
 
 # WSC
+
+	A good website for you to prepare WSC: https://www.joaquinrevello.com/wsc2020curriculum
+
 Download here[Special Area(Mistakes).docx](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404596/Special.Area.Mistakes.docx)
 
 									Special Area
