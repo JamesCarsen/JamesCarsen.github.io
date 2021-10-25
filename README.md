@@ -23,11 +23,11 @@ A book for you to prepare Statistics in USAD
 
 ## NEC
 不好拿好奖![)O3JTJ$8469%H@$9H AH1EW](https://user-images.githubusercontent.com/70703379/138593684-b0d6eda8-3807-4cc8-b0f0-4c2210ec7dab.png)
-[Info about NEC] https://jamescarsen.github.io/JamesCarsen-NEC.github.io/
+[Info about NEC] (https://jamescarsen.github.io/JamesCarsen-NEC.github.io/)
 
 
 ## WSC
-[Information about WSC?] https://jamescarsen.github.io/JamesCarsen-WSC.github.io
+[Information about WSC?] (https://jamescarsen.github.io/JamesCarsen-WSC.github.io)
 
 
 ## About Format
