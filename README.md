@@ -10,7 +10,7 @@
 
 
 
-Want to learn more about AMC? Click here https://jamescarsen.github.io/JamesCarsen-AMC.github.io/
+Want to learn more about AMC? Go to this website: https://jamescarsen.github.io/JamesCarsen-AMC.github.io/
 
 
 
