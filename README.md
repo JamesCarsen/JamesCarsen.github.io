@@ -36,13 +36,21 @@ I will update it
 
 we will follow this format
 
-	Subtitle A
+## Second Heading A
+
+### Smallest Heading A1
 	
-Picture for A
+Picture for A1
 
-Info for A
+Info for A1
 
-	Subtitle B 
+### Smallest Heading A2
+
+Info for A2
+
+## Second Heading B 
+
+### Smallest Heading B1
 	
 Picture for B 
 
