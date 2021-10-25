@@ -8,7 +8,7 @@
 
 ## Mathematics
 
-Formulas and Proofs? Go here: https://jamescarsen.github.io/JamesCarsen-math-formulas-and-proofs.github.io/
+[Formulas and Proofs](https://jamescarsen.github.io/JamesCarsen-math-formulas-and-proofs.github.io/)
 
 
 
