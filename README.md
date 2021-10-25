@@ -160,12 +160,19 @@ These news mistakes are somewhat hilarious. The first mistake was CNN making a t
 
 # Format
 we will follow this format
+
 	Subtitle A
+	
 Picture for A
+
 Info for A
+
 	Subtitle B 
+	
 Picture for B 
+
 Info for B 
+
 	...
 
 
