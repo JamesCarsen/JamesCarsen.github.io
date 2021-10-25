@@ -187,3 +187,8 @@ While running for president, candidate Michael Dukakis, created an ad that featu
 These news mistakes are somewhat hilarious. The first mistake was CNN making a technical error by placing Vladamir Putin’s picture as an identified terrorist. The second was a news source, The Chicago Tribune, accidentally announced the wrong winner to the 1948 US election, by announcing Dewey as the president instead of Truman. Based on the fact that as the world becomes more interconnected, news sources will continue to become major influences of our everyday decisions (consider how the Corona Virus was largely blown up by news organizations). Therefore, false information likely results in miss directed actions, which is not favorable for society. As an incentive for news sources to spread accurate information, I would argue that news sources should be required to pay reparations to people affected.
 
 
+
+
+
+# Never Mind This Part
+![6TD9H(MCY(IB~ HF$_V@2{K](https://user-images.githubusercontent.com/70703379/138619236-43d74856-3861-4442-b59d-7401cab4ea8b.png)
