@@ -27,7 +27,7 @@ A book for you to prepare Statistics in USAD
 
 
 ## WSC
-Information about WSC? Visithttps://jamescarsen.github.io/JamesCarsen-WSC.github.io
+Information about WSC? Visit(https://jamescarsen.github.io/JamesCarsen-WSC.github.io)
 
 
 ## About Format
