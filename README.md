@@ -28,7 +28,7 @@ A book for you to prepare Statistics in USAD
 
 A good website for you to prepare WSC: https://www.joaquinrevello.com/wsc2020curriculum
 
-	Download here[Special Area(Mistakes).docx](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404596/Special.Area.Mistakes.docx)
+Download here[Special Area(Mistakes).docx](https://github.com/JamesCarsen/JamesCarsen.github.io/files/7404596/Special.Area.Mistakes.docx)
 
 									Special Area
 
@@ -60,32 +60,6 @@ Negative Impacts on Making Mistakes
 Mistakes can lead to an characteristics of conservative and less creative, as people gradually form a stereotype that mistakes equal to punishments. This kind of perception make people afraid of making mistakes, thus stop to explore the new things, and result in a stagnant situation.
 For example, in many family, parents treat their children based on what they behave. If the children do a good job, they give rewards if the children do some bad or not acceptable, they give punishments. That can be a good system in some cases, but it leads to that the children only do the things that their parents thought are right. This makes a conservative world, that children only do what they learn from their parents and reject unknown. Thus they only follow the old staff and become less creative.
 What is more, mistakes might lead to more serious situations. In the society, there are groups of people who have depression or other mental disease. These most likely were cause by the negative emotion lead by mistakes and troubles. They cannot take full responsibility to their mistakes or troubles.
-
-
-
-
-                               
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Isaac Asimov  "The Relativity of Wrong"  https://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm
@@ -130,10 +104,10 @@ Windows phone
 Alice Woolley (argues that when judges decide a case immorally, their decisions are wrongful).
 
 
-	Scott vs. Sandford (Scott, who was a slave and freed by his owner, trying to buy his freedom from his owner’s wife, Sandford, resulting in Scott suing her.One of the judges, Roger Taney, was likely the most racist, basically saying that African-Americans should not be considered citizens of the United States. Scott lost in the court. Finally, Sandford’s second husband Calvin Chaffee, a U.S. congressman and abolitionist, sold him to his original onwer’s son Taylor Blow, and got freedom.)
+Scott vs. Sandford (Scott, who was a slave and freed by his owner, trying to buy his freedom from his owner’s wife, Sandford, resulting in Scott suing her.One of the judges, Roger Taney, was likely the most racist, basically saying that African-Americans should not be considered citizens of the United States. Scott lost in the court. Finally, Sandford’s second husband Calvin Chaffee, a U.S. congressman and abolitionist, sold him to his original onwer’s son Taylor Blow, and got freedom.)
 
-	Washington was treated by bloodletting, which drain him over 40% of blood.
-	Egas Moniz won the Noble Price for frontal lobotomy, which involve severing connection within the brain. It cannot consider to be wrong, because of the limit equipment. Also, with the medical innovation, today’s treatment might be view as fault by tommorrow’s historians.
+Washington was treated by bloodletting, which drain him over 40% of blood.
+Egas Moniz won the Noble Price for frontal lobotomy, which involve severing connection within the brain. It cannot consider to be wrong, because of the limit equipment. Also, with the medical innovation, today’s treatment might be view as fault by tommorrow’s historians.
 	
 X-Rays at the Shoe Store was an invention created by Jacob Lowe in 1920, which are extremely dangerous, especially for kids. 
 
@@ -183,6 +157,16 @@ While running for president, candidate Michael Dukakis, created an ad that featu
 
 These news mistakes are somewhat hilarious. The first mistake was CNN making a technical error by placing Vladamir Putin’s picture as an identified terrorist. The second was a news source, The Chicago Tribune, accidentally announced the wrong winner to the 1948 US election, by announcing Dewey as the president instead of Truman. Based on the fact that as the world becomes more interconnected, news sources will continue to become major influences of our everyday decisions (consider how the Corona Virus was largely blown up by news organizations). Therefore, false information likely results in miss directed actions, which is not favorable for society. As an incentive for news sources to spread accurate information, I would argue that news sources should be required to pay reparations to people affected.
 
+
+# Format
+we will follow this format
+	Subtitle A
+Picture for A
+Info for A
+	Subtitle B 
+Picture for B 
+Info for B 
+	...
 
 
 
