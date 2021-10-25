@@ -6,8 +6,16 @@
 还有PVZ，锤子等恶心人系列![%)RK8(`~{5PA(@43ARLWE_I](https://user-images.githubusercontent.com/70703379/138594677-36e15176-8318-4f8b-b550-0e56d00b54f9.png)
 
 
-# AMC
+# Mathematics
+
+						AMC
 Art of Problem Solving
+
+
+	Two step to solve AMC12 2018A 22 题![9$GK$(1@}TBG7S30$V8)_@G](https://user-images.githubusercontent.com/70703379/138619065-6d8f3d09-8d60-4c15-b48d-8164c427da7e.png)
+	Step 1: Calculate all values of z
+	Step 2: using the formula for area to get the answer(I will expand on this)
+
 
 
 
