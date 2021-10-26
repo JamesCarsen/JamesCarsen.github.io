@@ -60,4 +60,9 @@ Info for B
 
 
 
+
+## About Author
+[Jiaye](https://jamescarsen.github.io/JamesCarsen-About-author.github.io/)
+
+
 *Date of Publish: October 24, 2021*
