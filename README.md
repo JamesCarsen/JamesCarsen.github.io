@@ -32,12 +32,6 @@ Information about WSC? Visit [https://jamescarsen.github.io/JamesCarsen-WSC.gith
 
 I will update it 
 
-
-
-
-
-*Date of Publish: October 24, 2021*
-
 we will follow this format
 
 # First Largest Heading
@@ -65,3 +59,5 @@ Info for B
 	...
 
 
+
+*Date of Publish: October 24, 2021*
